@@ -1,0 +1,10 @@
+{
+    entry = {
+		bundle = CLPreferences;
+		cell = PSLinkCell;
+		detail = CLPreferencesListController;
+		icon = icon.png;
+		isController = 1;
+		label = "Cleary";
+    };
+}
