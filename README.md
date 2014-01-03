@@ -1,7 +1,7 @@
 Cleary
 =======================
 
-Create Clear tasks on the fly using Activator.
+Create Clear tasks on the fly using Activator. Available for free on [BigBoss](http://thebigboss.org).
 
 ---------------------------------------
 	Simplified BSD License

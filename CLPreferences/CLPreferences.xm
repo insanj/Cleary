@@ -1,5 +1,4 @@
 #import <Preferences/PSSpecifier.h>
-#import <Preferences/PSRootController.h>
 #import <objc/runtime.h>
 
 @interface PSViewController : UIViewController

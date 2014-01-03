@@ -3,7 +3,7 @@ Replaces: libactivator.cleary, org.thebigboss.cleary
 Priority: optional
 Section: Tweaks
 Architecture: iphoneos-arm
-Version: 1.1
+Version: 1.1.1
 Description: Create Clear tasks from Activator.
 Name: Cleary
 Depends: mobilesubstrate, libactivator
