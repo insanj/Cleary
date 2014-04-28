@@ -1,11 +1,11 @@
 Cleary
 =======================
 
-Create Clear tasks on the fly using Activator. Available for free on [BigBoss](http://thebigboss.org).
+Create Clear tasks on the fly using Activator. Available for free on [BigBoss](http://thebigboss.org). Retired in favor of [Clear for ProWidgets](https://github.com/insanj/ClearforProWidgets).
 
 ---------------------------------------
 	Simplified BSD License
-	Copyright (c) 2013, Julian Weiss
+	Copyright (c) 2013-2014, Julian Weiss
 	All rights reserved.
 
 	Redistribution and use in source and binary forms, with or without
